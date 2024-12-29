@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import csv
-
+#Este es un comentario obligado porque no me gusta GitHub pero me están obligando.
 # Función para leer un grafo desde un archivo CSV
 def leer_grafo_csv(nombre_archivo):
     grafo = nx.DiGraph()  # Grafo dirigido
